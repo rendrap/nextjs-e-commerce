@@ -18,7 +18,6 @@
   "devDependencies": {
     "eslint": "8.19.0",
     "eslint-config-next": "12.2.2",
-    "prettier": "^1.18.2",
-    "prettier-airbnb-config": "^1.0.0"
+    "eslint-config-wesbos": "^3.0.2"
   }
 }
